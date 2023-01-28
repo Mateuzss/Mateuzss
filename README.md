@@ -1,15 +1,39 @@
-- <b> Hello world :computer: <b> 
-- Eu me chamo Mateus, Sou programador Front end atualmente estudo e faço projetos com:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F5275&height=120&section=header"/> 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=blackhttps://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-javascript" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react-Native" />
-<Br>
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Mateus Souza</h1
 <br>
+<br>  
+🧔🏻‍💻 Atualmente desenvolvo trabalhos freelancers na area de front-end
+<br>
+💻 Desenvolvimento web 
+<br>
+📚 HTML,CSS, Node.JS e JavaScript 
+<br>
+<br>
+<br>
+<br>
+<div>
+  <a href="https://github.com/Mateuzss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateuzss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuzss&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-![&theme=THEME_NAME Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuzss)
+  <br/>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuzss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <div> 
+  <a href="https://www.linkedin.com/in/mateus-da-silva-souza-b69014200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/ssmateuz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mateusdasilvasouza2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F5275&height=120&section=footer"/> MATEUS SOUZA
